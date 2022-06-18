@@ -109,6 +109,8 @@
 <div align="center">  
   
   ### [seq2seq]
+  
+  파일 : 22_03_28_day10_seq2seq.ipynb
   ![](https://aiffelstaticprd.blob.core.windows.net/media/images/GN-4-L-7.max-800x600.jpg)
   
 </div>
