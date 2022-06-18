@@ -164,7 +164,7 @@
   
   : 트랜스포머를 기반으로 하는 다양한 모델(transformer.models)과 학습 스크립트(transformer.Trainer)를 구현해 놓은 모듈입니다.
   
-  ---
+  <br/>
   
   **[BERT]**
   
