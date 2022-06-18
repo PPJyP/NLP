@@ -92,7 +92,7 @@
   
 </div>
 
-  - LSTM에 핍홀 연결한 모델에서 hidden state를 업데이트하는 계산을 간소화한 것이 GRU이다.
+  - LSTM에 핍홀 연결한 모델에서 hidden state를 업데이트하는 계산을 간소화한 모델
   
 
 
@@ -137,6 +137,8 @@
   
   ### [transformer]
   
+  파일명 : 22_03_31_day13_transformer.ipynb, 22_04_01_day14_transformer.ipynb
+  
   ![image](https://user-images.githubusercontent.com/37567501/174438067-e61938ec-2404-43dc-9af9-891b21efa787.png)
   
 </div>
@@ -150,9 +152,22 @@
   ---
   <br/><br/>
   
+<div align="center"> 
   ### [huggingface]
-  <img src=https://user-images.githubusercontent.com/37567501/174423209-69e83f82-3846-48f3-901e-20f40ec46e4a.png width="850" height="400"/>
   
+  파일명 : 22_04_05_day15_huggingface_tutorial.ipynb, 22_04_06_day16_huggingface_pretrained.ipynb
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+</div>
+  
+  **[huggingface]**
+  
+  : 트랜스포머를 기반으로 하는 다양한 모델(transformer.models)과 학습 스크립트(transformer.Trainer)를 구현해 놓은 모듈입니다.
+  
+  <br/>
+  
+  **[BERT]**
+  
+  : BERT는 사전 학습된 대용량의 레이블링 되지 않는(unlabeled) 데이터를 이용하여 언어 모델(Language Model)을 학습하고 이를 토대로 특정 작업( 문서 분류, 질의응답, 번역 등)을 위한 신경망을 추가하는 전이 학습 방법입니다.
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
 
