@@ -2,6 +2,13 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP&fontSize=50" />
   
+</div>
+
+- 아래는 **NLP관련 알고리즘**을 설명
+- [알고리즘명] 아래 해당되는 파일명 기재
+
+<div align="center">
+  
   ### [RNN]
   
   파일명 : 22_03_25_day09_RNN_Answer.ipynb
