@@ -2,27 +2,35 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP&fontSize=50" />
   
-  ### [RNN]
+  ### [RNN] - 22_03_25_day09_RNN_Answer.ipynb
   ![image](https://user-images.githubusercontent.com/37567501/174435532-015c35c4-e4e3-4c8e-90aa-1ede117e101b.png)
 </div>
-
+  <br/><br/>
   #### RNN 장단점
   **[장점]**
-  : 데이터 관측치가 시간적 순서를 가진 데이터이다. 변수간 상관성이 존재이 존재하는 데이터를 다루며 연속하거나 불규칙적인 데이터를 다루지는 않는다. 주로 과거의 데이터를 통해 현재의 움직임과 미래를 예윽하는데 사용된다.
+  : 데이터 관측치가 시간적 순서를 가지고 변수간 상관성이 존재이 존재하는 데이터를 다루며 주로 과거의 데이터를 통해 현재의 움직임과 미래를 예윽하는데 사용
   
+  **[단점]**
+  정보와 정보 사이의 거리가 멀면 초기의 weight 값이 유지되지 않아 학습 능력이 저하되며 이러한 문제를 장기 의존성 문제 (Long-Term Dependency) 라고 부름
   
   <br/><br/>
   ---
   <br/><br/>
 
 <div align="center">
-  ### [LSTM]
+  ### [LSTM] - 22_03_25_day09_RNN_Answer.ipynb
   ![image](https://user-images.githubusercontent.com/37567501/174435646-1f7eac80-5d09-44d3-ad37-00f20381ddab.png)
+  ![image](https://user-images.githubusercontent.com/37567501/174436360-7c10e338-4c71-4135-af90-daaa3197f59b.png)
 </div>
-
+  <br/><br/>
+  
   #### LSTM 장단점
   
-  RNN이 가진 이 장기 의존성 문제를 해결하기 위해 다양한 RNN이 나왔고 LSTM도 그 중 하나이며, LSTM은 이를 해결할 수 있는 특별한 종류의 RNN입니다. (LSTM은 오랜 기간동안 정보를 기억하는 특성을 가짐)
+  **[장점]**
+  : RNN에서 발생하는 기울기 소실(Vanishing Gradient)과 기울기 폭발(Exploding Gradient) 문제를 해결
+  
+  **[단점]**
+  : 연산 속도가 느림
   
   
   <br/><br/>
