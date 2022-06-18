@@ -120,6 +120,7 @@
   ### [seq2seq]
   
   파일 : 22_03_28_day10_seq2seq.ipynb
+  
   ![](https://aiffelstaticprd.blob.core.windows.net/media/images/GN-4-L-7.max-800x600.jpg)
   
 </div>
@@ -132,8 +133,18 @@
   ---
   <br/><br/>
   
+<div align="center"> 
+  
   ### [transformer]
-  <img src=https://user-images.githubusercontent.com/37567501/174423209-69e83f82-3846-48f3-901e-20f40ec46e4a.png width="850" height="400"/>
+  
+  ![image](https://user-images.githubusercontent.com/37567501/174438067-e61938ec-2404-43dc-9af9-891b21efa787.png)
+  
+</div>
+
+  seq2seq 모델은 인코더-디코더 구조로 구성되어져 있었습니다. 여기서 인코더는 입력 시퀀스를 하나의 벡터 표현으로 압축하고, 디코더는 이 벡터 표현을 통해서 출력 시퀀스를 만들어냈습니다. 하지만 이러한 구조는 인코더가 입력 시퀀스를 하나의 벡터로 압축하는 과정에서 입력 시퀀스의 정보가 일부 손실된다는 단점이 있었고, 이를 보정하기 위해 어텐션이 사용되었습니다.
+  **seq2seq 모델의 단점인 정보 손실 문제를 해결하기 위한 모듈 어텐션 만으로 인코더와 디코더를 구성해보는 모델이 transformer** 입니다.
+  
+  - [참조](https://wikidocs.net/31379)
   
   <br/><br/>
   ---
