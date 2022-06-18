@@ -153,7 +153,8 @@
   <br/><br/>
   
 <div align="center"> 
-  ### [huggingface]
+  
+  ### [huggingface & BERT]
   
   파일명 : 22_04_05_day15_huggingface_tutorial.ipynb, 22_04_06_day16_huggingface_pretrained.ipynb
   
@@ -163,7 +164,7 @@
   
   : 트랜스포머를 기반으로 하는 다양한 모델(transformer.models)과 학습 스크립트(transformer.Trainer)를 구현해 놓은 모듈입니다.
   
-  <br/>
+  ---
   
   **[BERT]**
   
