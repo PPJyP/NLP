@@ -2,7 +2,9 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP&fontSize=50" />
   
-  ### [RNN] - 22_03_25_day09_RNN_Answer.ipynb
+  ### [RNN]
+  
+  파일명 : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174435532-015c35c4-e4e3-4c8e-90aa-1ede117e101b.png)
   
@@ -28,7 +30,9 @@
 
 <div align="center">
   
-  ### [LSTM] - 22_03_25_day09_RNN_Answer.ipynb
+  ### [LSTM]
+  
+  파일명 : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174436482-bdde3a14-54bb-4a96-863d-05b2591fe8f8.png)
   ![image](https://user-images.githubusercontent.com/37567501/174436360-7c10e338-4c71-4135-af90-daaa3197f59b.png)
@@ -60,6 +64,7 @@
   ![image](https://user-images.githubusercontent.com/37567501/174436764-cfc33413-3936-47a0-9844-4e30cac5c448.png)
   
   - Felix Gers와 Jurgen Schmidhuber가 게이트 제어기에 장기 상태도 조금 노출시켜 좀 더 많은 문맥을 감지하게 만들면 좋을 수 있다는 아이디어 제안
+  
 </div>
 
   <br/><br/>
@@ -69,7 +74,9 @@
   
 <div align="center">
   
-  ### [GRU] - 22_03_25_day09_RNN_Answer.ipynb
+  ### [GRU]
+  
+  파일명 : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174436580-a76e8428-4bde-45e4-aee9-4c5ea732002c.png)
   
