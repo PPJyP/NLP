@@ -59,7 +59,7 @@
   
 <div align="center">
   
-  #### LSTM 핍홀
+  #### + LSTM_peephole
   
   ![image](https://user-images.githubusercontent.com/37567501/174436764-cfc33413-3936-47a0-9844-4e30cac5c448.png)
   
