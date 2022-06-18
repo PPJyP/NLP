@@ -21,7 +21,7 @@
   
   ### [LSTM] - 22_03_25_day09_RNN_Answer.ipynb
   
-  ![image](https://user-images.githubusercontent.com/37567501/174435646-1f7eac80-5d09-44d3-ad37-00f20381ddab.png)
+  ![image](https://user-images.githubusercontent.com/37567501/174436482-bdde3a14-54bb-4a96-863d-05b2591fe8f8.png)
   ![image](https://user-images.githubusercontent.com/37567501/174436360-7c10e338-4c71-4135-af90-daaa3197f59b.png)
 
 </div>
