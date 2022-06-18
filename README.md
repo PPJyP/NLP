@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=NLP&fontSize=50" />
   
   ### [RNN]
-  <img src=https://user-images.githubusercontent.com/37567501/174423209-69e83f82-3846-48f3-901e-20f40ec46e4a.png width="850" height="400"/>
+  <img src=https://user-images.githubusercontent.com/37567501/174435347-4cea47b9-9cd0-4540-b945-88110c354b1c.png width="850" height="400"/>
+  
+    시계열 데이터
+    : 데이터 관측치가 시간적 순서를 가진 데이터이다. 변수간 상관성이 존재이 존재하는 데이터를 다루며 연속하거나 불규칙적인 데이터를 다루지는 않는다. 주로 과거의 데이터를 통해 현재의 움직임과 미래를 예윽하는데 사용된다.
+  
   
   <br/><br/>
   ---
