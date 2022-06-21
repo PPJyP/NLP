@@ -5,7 +5,7 @@
 </div>
 
 - 아래는 **NLP관련 알고리즘**을 설명
-- [알고리즘명] 아래 해당되는 파일명 기재
+- [알고리즘명] 아래 해당되는 **파일명** 기재
 
 <br/><br/>
 
@@ -13,7 +13,7 @@
   
   ### [RNN]
   
-  파일명 : 22_03_25_day09_RNN_Answer.ipynb
+  **파일명** : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174435532-015c35c4-e4e3-4c8e-90aa-1ede117e101b.png)
   
@@ -41,7 +41,7 @@
   
   ### [LSTM]
   
-  파일명 : 22_03_25_day09_RNN_Answer.ipynb
+  **파일명** : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174436482-bdde3a14-54bb-4a96-863d-05b2591fe8f8.png)
   ![image](https://user-images.githubusercontent.com/37567501/174436360-7c10e338-4c71-4135-af90-daaa3197f59b.png)
@@ -86,7 +86,7 @@
   
   ### [GRU]
   
-  파일명 : 22_03_25_day09_RNN_Answer.ipynb
+  **파일명** : 22_03_25_day09_RNN_Answer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174436580-a76e8428-4bde-45e4-aee9-4c5ea732002c.png)
   
@@ -119,7 +119,7 @@
   
   ### [seq2seq]
   
-  파일 : 22_03_28_day10_seq2seq.ipynb
+  **파일** : 22_03_28_day10_seq2seq.ipynb
   
   ![](https://aiffelstaticprd.blob.core.windows.net/media/images/GN-4-L-7.max-800x600.jpg)
   
@@ -137,7 +137,7 @@
   
   ### [transformer]
   
-  파일명 : 22_03_31_day13_transformer.ipynb, 22_04_01_day14_transformer.ipynb
+  **파일명** : 22_03_31_day13_transformer.ipynb, 22_04_01_day14_transformer.ipynb
   
   ![image](https://user-images.githubusercontent.com/37567501/174438067-e61938ec-2404-43dc-9af9-891b21efa787.png)
   
@@ -156,7 +156,7 @@
   
   ### [huggingface & BERT]
   
-  파일명 : 22_04_05_day15_huggingface_tutorial.ipynb, 22_04_06_day16_huggingface_pretrained.ipynb
+  **파일명** : 22_04_05_day15_huggingface_tutorial.ipynb, 22_04_06_day16_huggingface_pretrained.ipynb
   
 </div>
   
